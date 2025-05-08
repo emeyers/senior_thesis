@@ -56,9 +56,13 @@ D. Conclusions:
 
 E. Timeliness: 
 - Thesis draft turned in by the appropriate deadline.
-- Thesis draft is a largely complete version of the thesis.
- - Only smaller edits should be made (based on the feedback I give you) after you have sent me your final draft.
+- Thesis draft is a 100% complete version of the thesis.
+ - Once you send me your thesis draft, only smaller changes should be made based on the feedback I give you 
 
 F. Reflection:
 - Please fill out [this reflection survey](https://docs.google.com/forms/d/e/1FAIpQLSfCQDXCRGlYQ2dQYKNLIefO2huw1nCTG8zYbwBnlvcdZYygjQ/viewform) after you have completed your thesis so that I can learn how the profess when and how I can improve as an advisor in the future. 
+
+G. GitHub repo
+- Please put all code you used for your analyses on a GitHub repository (ideally as Quarto/Jupyter notebooks) so that your results are reproducible. 
+
 

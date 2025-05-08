@@ -1,6 +1,6 @@
 # Useful resources
 
-Below are some useful resources for completing your thesis:
+Below are some useful resources for completing your thesis.
 
 ### YCRC cluster
 

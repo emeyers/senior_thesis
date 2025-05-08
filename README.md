@@ -6,5 +6,5 @@ The repository contains information about doing a senior thesis with me. In part
 
 - [A rubric](https://github.com/emeyers/senior_thesis-/blob/main/rubric.md) which describes what a successful thesis consists of and how your grade will be determined.
 
-- If your project is computationally intensive, you should use the YCRC cluster which will make it much faster to run your analyses. [This repository wiki](https://github.com/emeyers/meyerslab/wiki/grace_cluster) describes how to use the YCRC cluster. 
+- Please also see the [useful resources](https://github.com/emeyers/senior_thesis/blob/main/useful_resources.md) page which has information about using the YCRC cluster to speed up your analyses, and using a citation manager to add citations to your thesis. 
 

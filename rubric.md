@@ -60,5 +60,5 @@ E. Timeliness:
  - Only smaller edits should be made (based on the feedback I give you) after you have sent me your final draft.
 
 F. Reflection:
-- Please fill out the reflection survey after you have completed your thesis so that I can learn how the profess when and how I can improve as an advisor in the future. 
+- Please fill out [this reflection survey](https://docs.google.com/forms/d/e/1FAIpQLSfCQDXCRGlYQ2dQYKNLIefO2huw1nCTG8zYbwBnlvcdZYygjQ/viewform) after you have completed your thesis so that I can learn how the profess when and how I can improve as an advisor in the future. 
 

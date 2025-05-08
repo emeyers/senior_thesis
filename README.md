@@ -1,2 +1,3 @@
-# senior_thesis-
-Information about doing an S&amp;DS senior thesis
+# S&DS senior thesis information
+
+The repository contains information about doing a senior thesis with me. 

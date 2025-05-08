@@ -42,7 +42,11 @@ Grades will be based on these reports in terms of evidence of progress made thro
 
 -	Try to clearly define goals of the project; i.e., what success looks like. 
 -	Try to figure out what the deliverables will be given at the end;
- -	e.g., 25 page paper in a Quarto document, with background on why the problem is interesting, background work in the areas, results and conclusions. 
+ -	e.g., 25 page paper in a Quarto document, with background on why the problem is interesting, background work in the areas, results and conclusions.
+-	Create a GitHub repository where you can store all the content related to you thesis.
+   - You should share this with me so that you can share results with me throughout the semester
+   - You should put all your final code on this repo so that your work is reproducible
+   - You should consister making this repo into a website that you can share with others (such are future employers, etc.) 
 
 
 ## Typical milestones

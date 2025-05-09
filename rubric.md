@@ -25,10 +25,11 @@ C.	Was prepared for the meetings:
   - Anything else you would like me to know
 
 D.	Engagement 
-- Hopefully are excited about the project (i.e., the meetings don’t feel like pulling teeth)
+- Excited about the project (i.e., the meetings don’t feel like pulling teeth)
 - Become involved in reading literature others have written on the topic (background research).
 - Can come up with interesting/creative ideas to address questions of interest
- - I can help brainstorm with you too during out meetings
+  - i.e., explored a range of ideas, when one didn’t work pivoted to new idea
+  - I can help brainstorm with you too during out meetings
 
   
 ## Written thesis (40% of grade)
@@ -43,8 +44,11 @@ A.	The thesis is well written:
 - A good understanding of background/previous research is demonstrated. 
 
 B.	Results: 
-- The results believable (confounds addressed)
 - Easy to understand what you did and each analysis was done.
+- The results are believable and rigorous:
+  - Results tested with multiple methods, separate datasets/cross-validation is used, etc.
+  - Confounds are addressed, limitations are explored/listed
+  - Did not just throw data into a large regression model and blindly trust the results.
 - Results presented clearly:
   - Figures labeled, regression outputs clearly displayed, no key results missing.
 
@@ -52,7 +56,7 @@ C.	Scope:
 - Explored several different analyses to address the question of interest
 
 D. Conclusions: 
-- The conclusions
+- The conclusions discuss key findings, limitations of the work and possible future directions. 
 
 E. Timeliness: 
 - Thesis draft turned in by the appropriate deadline.

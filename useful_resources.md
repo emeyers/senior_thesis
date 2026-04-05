@@ -9,6 +9,6 @@ Below are some useful resources for completing your thesis.
 
 ### Citation manager
 
-You should use a citation manager to collect references and to add citations to your thesis (rather than manually adding citations). I would recommend using [Mendeley](https://www.mendeley.com/) which has a plugin for your web browser that let's you easily import references into a bibliography. You can then also easily add these citations into a Word, LaTeX, or Google Doc.  
+You should use a citation manager to collect references and to add citations to your thesis (rather than manually adding citations). I would recommend using [Mendeley](https://www.mendeley.com/) which has a plugin for your web browser that let's you easily import references into a bibliography. You can then also easily add these citations into a Word, LaTeX, Google Doc, or RMarkdown/Quarto. A guide for how to use Mendeley with RMarkdown/Quarto created by Aryav Bothra can be [found here](https://github.com/emeyers/senior_thesis/blob/main/mendeley-for-rmarkdown.md)
 
 
